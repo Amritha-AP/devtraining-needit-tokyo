@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_ux_event">
+    <sys_ux_event action="DELETE">
+        <description/>
+        <event_name>UPDATE__QUERY__&amp;_TITLE_UIB</event_name>
+        <interfaces/>
+        <label>Update  query  &amp; title UIB</label>
+        <props>[{"name":"heListQuery","fieldType":"string","label":"List Query","interfaceApiName":"","typeMetadata":null,"mandatory":false,"readOnly":false},{"name":"heListTitle","fieldType":"string","label":"List Title","interfaceApiName":"","typeMetadata":null,"mandatory":false,"readOnly":false}]</props>
+        <required_translations>[ {
+  "message" : "List Query",
+  "comment" : ""
+}, {
+  "message" : "List Title",
+  "comment" : ""
+} ]</required_translations>
+        <schema_version>1.0.0</schema_version>
+        <sys_class_name>sys_ux_event</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-01-23 11:12:06</sys_created_on>
+        <sys_id>ce1d53b197642110b0753d400153af64</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Update  query  &amp; title UIB</sys_name>
+        <sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope>
+        <sys_update_name>sys_ux_event_ce1d53b197642110b0753d400153af64</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-01-23 11:12:06</sys_updated_on>
+    </sys_ux_event>
+    <sys_translated_text action="DELETE" query="documentkey=ce1d53b197642110b0753d400153af64"/>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</application>
+        <file_path/>
+        <instance_id>ba4ba510db238c149df22f17d49619e5</instance_id>
+        <instance_name>dev102689</instance_name>
+        <name>sys_ux_event_ce1d53b197642110b0753d400153af64</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_ux_event"><sys_ux_event action="INSERT_OR_UPDATE"><description/><event_name>UPDATE__QUERY__&amp;_TITLE_UIB</event_name><interfaces/><label>Update  query  &amp; title UIB</label><props>[{"name":"heListQuery","fieldType":"string","label":"List Query","interfaceApiName":"","typeMetadata":null,"mandatory":false,"readOnly":false},{"name":"heListTitle","fieldType":"string","label":"List Title","interfaceApiName":"","typeMetadata":null,"mandatory":false,"readOnly":false}]</props><required_translations>[ {
+  "message" : "List Query",
+  "comment" : ""
+}, {
+  "message" : "List Title",
+  "comment" : ""
+} ]</required_translations><schema_version>1.0.0</schema_version><sys_class_name>sys_ux_event</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2023-01-23 11:12:06</sys_created_on><sys_id>ce1d53b197642110b0753d400153af64</sys_id><sys_mod_count>0</sys_mod_count><sys_name>Update  query  &amp; title UIB</sys_name><sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package><sys_policy/><sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope><sys_update_name>sys_ux_event_ce1d53b197642110b0753d400153af64</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2023-01-23 11:12:06</sys_updated_on></sys_ux_event><sys_translated_text action="delete_multiple" query="documentkey=ce1d53b197642110b0753d400153af64"/></record_update>]]></payload>
+        <payload_hash>665337373</payload_hash>
+        <record_name>Update  query  &amp; title UIB</record_name>
+        <reverted_from/>
+        <source>1465bef497202110b0753d400153af2f</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-01-23 11:12:06</sys_created_on>
+        <sys_id>ce1d53b197642110b0753d400153af66</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>185de5407000000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-01-23 11:12:06</sys_updated_on>
+        <type>UX Event</type>
+        <update_guid>0a1d53b1506421106742e6be6c54a166</update_guid>
+        <update_guid_history>0a1d53b1506421106742e6be6c54a166:665337373</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-01-23 12:31:31</sys_created_on>
+        <sys_db_object display_value="" name="sys_ux_event">sys_ux_event</sys_db_object>
+        <sys_id>e490c32d7d814b86a5c97912fe47ef19</sys_id>
+        <sys_metadata>ce1d53b197642110b0753d400153af64</sys_metadata>
+        <sys_name>Update  query  &amp; title UIB</sys_name>
+        <sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope>
+        <sys_scope_delete display_value="">94872a8897db403e8ee69a431de2fca4</sys_scope_delete>
+        <sys_update_name>sys_ux_event_ce1d53b197642110b0753d400153af64</sys_update_name>
+        <sys_update_version display_value="sys_ux_event_ce1d53b197642110b0753d400153af64">ce1d53b197642110b0753d400153af66</sys_update_version>
+    </sys_metadata_delete>
+</record_update>
